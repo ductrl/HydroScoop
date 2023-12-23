@@ -1,1 +1,1 @@
-# hydroscoop
+# HydroScoop
