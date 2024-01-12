@@ -28445,7 +28445,9 @@
               fullScreen ? "display: none !important;" : ""
             );
           }
-          function createBadge() {}
+          function createBadge() {
+            return;
+          }
           function ensureBrand() {
             var found = $body.children(namespace);
             var match = found.length && found.get(0) === brandElement;
