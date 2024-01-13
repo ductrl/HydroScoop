@@ -2398,7 +2398,7 @@ img {
 }
 
 .background-image.home-background {
-  background-image: url("https://assets-global.website-files.com/659ec88d4a20c7eaa32bd7f7/659ee1bab9a16f466c190725_hero-img-top.jpg");
+  background-image: url("assets/img/hero-img-top.jpg");
   background-position: 50% 15%;
   background-size: 107%;
 }
@@ -2415,7 +2415,7 @@ img {
 }
 
 .background-image.action-background {
-  background-image: url("https://assets-global.website-files.com/659ec88d4a20c7eaa32bd7f7/659fa2bddea5004e256b8d7a_motor.jpg");
+  background-image: url("/assets/img/motor.jpg");
   background-position: 50%;
   background-size: contain;
 }
@@ -2435,7 +2435,7 @@ img {
 }
 
 .background-image.projects-background {
-  background-image: url("https://assets-global.website-files.com/659ec88d4a20c7eaa32bd7f7/659fa4a1dea5004e256cb72e_don-cong.jpg");
+  background-image: url("/assets/img/don-cong.jpg");
   background-position: 50%;
 }
 
@@ -2891,16 +2891,16 @@ img {
 }
 
 .sticky-image-wrapper.image-three {
-  background-image: url("https://assets-global.website-files.com/659ec88d4a20c7eaa32bd7f7/659f48b278a3abb17dfee6c2_validation.jpg");
+  background-image: url("assets/img/validation.jpg");
 }
 
 .sticky-image-wrapper.image-two {
-  background-image: url("https://assets-global.website-files.com/659ec88d4a20c7eaa32bd7f7/659f46340142919e0d438ac4_solution.jpg");
+  background-image: url("assets/img/solution.jpg");
   background-position: 50%;
 }
 
 .sticky-image-wrapper.image-one {
-  background-image: url("https://assets-global.website-files.com/659ec88d4a20c7eaa32bd7f7/659f454e5ba750af670d8d60_problem.jpg");
+  background-image: url("assets/img/problem.jpg");
   background-size: cover;
 }
 
@@ -4286,27 +4286,27 @@ img {
 }
 
 .portrait-image.two {
-  background-image: url("https://assets-global.website-files.com/659ec88d4a20c7eaa32bd7f7/659fb243de7415e7fd63c6f6_william.jpg");
+  background-image: url("assets/img/william.jpg");
 }
 
 .portrait-image.three {
-  background-image: url("https://assets-global.website-files.com/659ec88d4a20c7eaa32bd7f7/65a179a2b5737a1977f75ded_hung-yu.jpg");
+  background-image: url("assets/img/hung-yu.jpg");
   background-position: 0 0;
   background-size: cover;
 }
 
 .portrait-image.one {
-  background-image: url("https://assets-global.website-files.com/659ec88d4a20c7eaa32bd7f7/659fb2146ebf0802f48eaa42_andy.jpg");
+  background-image: url("assets/img/andy.jpg");
   background-position: 100%;
 }
 
 .portrait-image.five {
-  background-image: url("https://assets-global.website-files.com/659ec88d4a20c7eaa32bd7f7/65a178cc14f1f7462ecdfdaa_prof_pic.jpg");
+  background-image: url("assets/img/mike.jpg");
   background-position: 50%;
 }
 
 .portrait-image.four {
-  background-image: url("https://assets-global.website-files.com/659ec88d4a20c7eaa32bd7f7/65a179a234eb7887455c4029_mary.jpg");
+  background-image: url("assets/img/mary.jpg");
 }
 
 .menu-list {
